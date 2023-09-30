@@ -1,10 +1,12 @@
 # Telco Customer Churn Feature Engineering
 
-## Problem: It is desired to develop a machine learning model that can predict customers who will leave the company. You are expected to perform the necessary data analysis and feature engineering steps before developing the model.
+## Problem: 
+It is desired to develop a machine learning model that can predict customers who will leave the company. You are expected to perform the necessary data analysis and feature engineering steps before developing the model.
 
-## Dataset Story: Telco customer churn data contains information about a fictitious telecom company that provided home phone and Internet services to 7,043 customers in California in the third quarter. It includes which customers left, stayed, or signed up for their service.
+## Dataset Story: 
+Telco customer churn data contains information about a fictitious telecom company that provided home phone and Internet services to 7,043 customers in California in the third quarter. It includes which customers left, stayed, or signed up for their service.
 
-#21 Variable 7043 Observations
+# 21 Variable 7043 Observations
 
 CustomerId: Customer ID
 
